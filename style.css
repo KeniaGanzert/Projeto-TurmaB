@@ -1,7 +1,11 @@
 .itens-cabecalho{
      background-color:019367;
 color: black;
-display: flex ;}
+display: flex ;
+justify-content: space-around}
      .cabecalho-imagem{
           width: 10%
+     }
+     .cabecalho-lista-item{
+          display: inline-block;
      }
