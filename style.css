@@ -1,3 +1,7 @@
+*{
+     margin: 0;
+     padding: 0;
+}
 .itens-cabecalho{
      background-color:019367;
 color: black;
